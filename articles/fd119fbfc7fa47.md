@@ -100,7 +100,7 @@ npm installを実行すると、packages.jsonに記載された依存関係の�
 
 Github Actions を経由して プロジェクトをデプロイする場合はリポジトリ内で設定できる secrets を利用すると良いです。
 
-[暗号化されたシークレット - GitHub Docs](https://docs.github.com/ja/actions/security-guides/encrypted-secrets)
+https://docs.github.com/ja/actions/security-guides/encrypted-secrets
 
 **手順1：Personal Access Token (PAT) を生成 > secret に登録**
 
